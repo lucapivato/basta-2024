@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVMSample.Web", "MVVMSampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editor3D.Web", "Editor3D\Editor3D.Web\Editor3D.Web.csproj", "{185FB8E0-2176-49D6-98D6-30219D1EB364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingTest.Web", "BindingTest\BindingTest.Web\BindingTest.Web.csproj", "{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{185FB8E0-2176-49D6-98D6-30219D1EB364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{185FB8E0-2176-49D6-98D6-30219D1EB364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{185FB8E0-2176-49D6-98D6-30219D1EB364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{9E357E1E-05D6-4D77-ABCF-ABF4F5216F08} = {3A811E08-45F4-4CCE-BBBA-5828E0164F4C}
 		{4D118B83-E122-4AAD-871F-9F04199F7022} = {4111DDE9-598F-4847-8504-4F6347653A98}
 		{185FB8E0-2176-49D6-98D6-30219D1EB364} = {ABB6BB92-C7F5-4B4D-BCDA-D1AAFF302A91}
+		{7F6F2DE2-BBFD-48B9-969A-BD4B7F160E7A} = {9771971B-4639-4715-8670-AD3A18CD665E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEB50855-380F-4806-BA15-E428477138DC}
